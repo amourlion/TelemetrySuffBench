@@ -1,0 +1,91 @@
+version: rq2_signal_factors_v1
+renderer_version: rq2_renderer_v1
+bit_order: [I, D, P, R, S, V, T]
+redaction: "<REDACTED>"
+unknown_field_policy: fail_closed
+always_visible:
+  - events.*.event_id
+  - events.*.step_index
+  - candidate_event_ids
+factors:
+  I:
+    description: Identity and event semantics
+    deletion: redact
+    fields:
+      - events.*.actor_id
+      - events.*.actor_role
+      - events.*.display_name
+      - events.*.component_type
+      - events.*.event_type
+      - events.*.tool.name
+  D:
+    description: Decision and latent-reference content
+    deletion: redact
+    fields:
+      - events.*.output.structured.workflow.reference
+      - events.*.output.structured.workflow.binding_kind
+  P:
+    description: Registry and provenance mappings
+    deletion: redact
+    fields:
+      - events.*.output.structured.workflow.reference_map
+      - events.*.retrieval.documents
+  R:
+    description: Propagation and handoff relations
+    deletion: redact
+    fields:
+      - events.*.parent_event_ids
+      - events.*.dependency_event_ids
+      - events.*.memory.source_event_id
+  S:
+    description: Tool inputs and state transitions
+    deletion: redact
+    fields:
+      - events.*.input.text
+      - events.*.input.structured
+      - events.*.output.text
+      - events.*.output.structured.workflow.domain
+      - events.*.output.structured.workflow.task_variant
+      - events.*.output.structured.workflow.target_id
+      - events.*.tool.arguments
+      - events.*.tool.result
+      - events.*.retrieval.query
+      - events.*.memory.operation
+      - events.*.memory.key
+      - events.*.memory.version
+  V:
+    description: Observation and verifier evidence
+    deletion: redact
+    fields:
+      - events.*.output.structured.workflow.expected_target
+      - events.*.output.structured.workflow.actual_target
+  T:
+    description: Terminal failure status
+    deletion: redact
+    fields:
+      - events.*.status
+      - events.*.exception
+shared_fields: []
+private_never_visible:
+  - labels
+  - injection_record
+  - origin_label
+  - causal_stage_label
+  - source_pointer
+  - metadata
+  - source_record_id
+  - source_revision
+  - raw_bundle
+ignored_known_fields:
+  - schema_version
+  - trace_id
+  - source_dataset
+  - task_id
+  - workflow_id
+  - framework
+  - topology
+  - modality
+  - events.*.logical_time
+  - events.*.source_pointer
+  - events.*.output.structured.workflow.stage
+  - events.*.output.structured.workflow.position

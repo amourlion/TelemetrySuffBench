@@ -1,0 +1,10 @@
+version: rq2_algorithmic_mask_selection_v1
+seed: 20260728
+algorithm: deterministic_greedy_balanced_design
+count: 8
+size_targets: [2, 2, 3, 3, 4, 4, 5, 5]
+objectives:
+  - factor_frequency_balance
+  - pair_frequency_balance
+  - size_coverage
+  - low_design_correlation

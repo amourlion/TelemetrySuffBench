@@ -1,0 +1,1190 @@
+[
+  {
+    "matched_group_id": "r3_group_000",
+    "trace_ids": [
+      "component_extension_fault_g000_0",
+      "component_extension_fault_g000_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_001",
+    "trace_ids": [
+      "component_extension_fault_g001_0",
+      "component_extension_fault_g001_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_002",
+    "trace_ids": [
+      "component_extension_fault_g002_0",
+      "component_extension_fault_g002_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_003",
+    "trace_ids": [
+      "component_extension_fault_g003_0",
+      "component_extension_fault_g003_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_004",
+    "trace_ids": [
+      "component_extension_fault_g004_0",
+      "component_extension_fault_g004_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_005",
+    "trace_ids": [
+      "component_extension_fault_g005_0",
+      "component_extension_fault_g005_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_006",
+    "trace_ids": [
+      "component_extension_fault_g006_0",
+      "component_extension_fault_g006_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_007",
+    "trace_ids": [
+      "component_extension_fault_g007_0",
+      "component_extension_fault_g007_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_008",
+    "trace_ids": [
+      "component_extension_fault_g008_0",
+      "component_extension_fault_g008_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_009",
+    "trace_ids": [
+      "component_extension_fault_g009_0",
+      "component_extension_fault_g009_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_010",
+    "trace_ids": [
+      "component_extension_fault_g010_0",
+      "component_extension_fault_g010_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_011",
+    "trace_ids": [
+      "component_extension_fault_g011_0",
+      "component_extension_fault_g011_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_012",
+    "trace_ids": [
+      "component_extension_fault_g012_0",
+      "component_extension_fault_g012_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_013",
+    "trace_ids": [
+      "component_extension_fault_g013_0",
+      "component_extension_fault_g013_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_014",
+    "trace_ids": [
+      "component_extension_fault_g014_0",
+      "component_extension_fault_g014_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_015",
+    "trace_ids": [
+      "component_extension_fault_g015_0",
+      "component_extension_fault_g015_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_016",
+    "trace_ids": [
+      "component_extension_fault_g016_0",
+      "component_extension_fault_g016_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_017",
+    "trace_ids": [
+      "component_extension_fault_g017_0",
+      "component_extension_fault_g017_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_018",
+    "trace_ids": [
+      "component_extension_fault_g018_0",
+      "component_extension_fault_g018_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_019",
+    "trace_ids": [
+      "component_extension_fault_g019_0",
+      "component_extension_fault_g019_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_020",
+    "trace_ids": [
+      "component_extension_fault_g020_0",
+      "component_extension_fault_g020_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_021",
+    "trace_ids": [
+      "component_extension_fault_g021_0",
+      "component_extension_fault_g021_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_022",
+    "trace_ids": [
+      "component_extension_fault_g022_0",
+      "component_extension_fault_g022_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_023",
+    "trace_ids": [
+      "component_extension_fault_g023_0",
+      "component_extension_fault_g023_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_024",
+    "trace_ids": [
+      "component_extension_fault_g024_0",
+      "component_extension_fault_g024_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_025",
+    "trace_ids": [
+      "component_extension_fault_g025_0",
+      "component_extension_fault_g025_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_026",
+    "trace_ids": [
+      "component_extension_fault_g026_0",
+      "component_extension_fault_g026_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_027",
+    "trace_ids": [
+      "component_extension_fault_g027_0",
+      "component_extension_fault_g027_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_028",
+    "trace_ids": [
+      "component_extension_fault_g028_0",
+      "component_extension_fault_g028_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_029",
+    "trace_ids": [
+      "component_extension_fault_g029_0",
+      "component_extension_fault_g029_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_030",
+    "trace_ids": [
+      "component_extension_fault_g030_0",
+      "component_extension_fault_g030_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_031",
+    "trace_ids": [
+      "component_extension_fault_g031_0",
+      "component_extension_fault_g031_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_032",
+    "trace_ids": [
+      "component_extension_fault_g032_0",
+      "component_extension_fault_g032_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_033",
+    "trace_ids": [
+      "component_extension_fault_g033_0",
+      "component_extension_fault_g033_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_034",
+    "trace_ids": [
+      "component_extension_fault_g034_0",
+      "component_extension_fault_g034_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_035",
+    "trace_ids": [
+      "component_extension_fault_g035_0",
+      "component_extension_fault_g035_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_036",
+    "trace_ids": [
+      "component_extension_fault_g036_0",
+      "component_extension_fault_g036_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_037",
+    "trace_ids": [
+      "component_extension_fault_g037_0",
+      "component_extension_fault_g037_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_038",
+    "trace_ids": [
+      "component_extension_fault_g038_0",
+      "component_extension_fault_g038_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_039",
+    "trace_ids": [
+      "component_extension_fault_g039_0",
+      "component_extension_fault_g039_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_040",
+    "trace_ids": [
+      "component_extension_fault_g040_0",
+      "component_extension_fault_g040_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_041",
+    "trace_ids": [
+      "component_extension_fault_g041_0",
+      "component_extension_fault_g041_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_042",
+    "trace_ids": [
+      "component_extension_fault_g042_0",
+      "component_extension_fault_g042_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_043",
+    "trace_ids": [
+      "component_extension_fault_g043_0",
+      "component_extension_fault_g043_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_044",
+    "trace_ids": [
+      "component_extension_fault_g044_0",
+      "component_extension_fault_g044_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_045",
+    "trace_ids": [
+      "component_extension_fault_g045_0",
+      "component_extension_fault_g045_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_046",
+    "trace_ids": [
+      "component_extension_fault_g046_0",
+      "component_extension_fault_g046_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_047",
+    "trace_ids": [
+      "component_extension_fault_g047_0",
+      "component_extension_fault_g047_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_048",
+    "trace_ids": [
+      "component_extension_fault_g048_0",
+      "component_extension_fault_g048_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_049",
+    "trace_ids": [
+      "component_extension_fault_g049_0",
+      "component_extension_fault_g049_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_050",
+    "trace_ids": [
+      "component_extension_fault_g050_0",
+      "component_extension_fault_g050_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_051",
+    "trace_ids": [
+      "component_extension_fault_g051_0",
+      "component_extension_fault_g051_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_052",
+    "trace_ids": [
+      "component_extension_fault_g052_0",
+      "component_extension_fault_g052_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_053",
+    "trace_ids": [
+      "component_extension_fault_g053_0",
+      "component_extension_fault_g053_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_054",
+    "trace_ids": [
+      "component_extension_fault_g054_0",
+      "component_extension_fault_g054_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_055",
+    "trace_ids": [
+      "component_extension_fault_g055_0",
+      "component_extension_fault_g055_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_056",
+    "trace_ids": [
+      "component_extension_fault_g056_0",
+      "component_extension_fault_g056_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_057",
+    "trace_ids": [
+      "component_extension_fault_g057_0",
+      "component_extension_fault_g057_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_058",
+    "trace_ids": [
+      "component_extension_fault_g058_0",
+      "component_extension_fault_g058_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_059",
+    "trace_ids": [
+      "component_extension_fault_g059_0",
+      "component_extension_fault_g059_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_060",
+    "trace_ids": [
+      "component_extension_fault_g060_0",
+      "component_extension_fault_g060_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_061",
+    "trace_ids": [
+      "component_extension_fault_g061_0",
+      "component_extension_fault_g061_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_062",
+    "trace_ids": [
+      "component_extension_fault_g062_0",
+      "component_extension_fault_g062_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_063",
+    "trace_ids": [
+      "component_extension_fault_g063_0",
+      "component_extension_fault_g063_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_064",
+    "trace_ids": [
+      "component_extension_fault_g064_0",
+      "component_extension_fault_g064_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_065",
+    "trace_ids": [
+      "component_extension_fault_g065_0",
+      "component_extension_fault_g065_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_066",
+    "trace_ids": [
+      "component_extension_fault_g066_0",
+      "component_extension_fault_g066_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_067",
+    "trace_ids": [
+      "component_extension_fault_g067_0",
+      "component_extension_fault_g067_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_068",
+    "trace_ids": [
+      "component_extension_fault_g068_0",
+      "component_extension_fault_g068_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_069",
+    "trace_ids": [
+      "component_extension_fault_g069_0",
+      "component_extension_fault_g069_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_070",
+    "trace_ids": [
+      "component_extension_fault_g070_0",
+      "component_extension_fault_g070_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_071",
+    "trace_ids": [
+      "component_extension_fault_g071_0",
+      "component_extension_fault_g071_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_072",
+    "trace_ids": [
+      "component_extension_fault_g072_0",
+      "component_extension_fault_g072_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_073",
+    "trace_ids": [
+      "component_extension_fault_g073_0",
+      "component_extension_fault_g073_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_074",
+    "trace_ids": [
+      "component_extension_fault_g074_0",
+      "component_extension_fault_g074_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_075",
+    "trace_ids": [
+      "component_extension_fault_g075_0",
+      "component_extension_fault_g075_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_076",
+    "trace_ids": [
+      "component_extension_fault_g076_0",
+      "component_extension_fault_g076_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_077",
+    "trace_ids": [
+      "component_extension_fault_g077_0",
+      "component_extension_fault_g077_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_078",
+    "trace_ids": [
+      "component_extension_fault_g078_0",
+      "component_extension_fault_g078_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_079",
+    "trace_ids": [
+      "component_extension_fault_g079_0",
+      "component_extension_fault_g079_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_080",
+    "trace_ids": [
+      "component_extension_fault_g080_0",
+      "component_extension_fault_g080_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_081",
+    "trace_ids": [
+      "component_extension_fault_g081_0",
+      "component_extension_fault_g081_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_082",
+    "trace_ids": [
+      "component_extension_fault_g082_0",
+      "component_extension_fault_g082_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_083",
+    "trace_ids": [
+      "component_extension_fault_g083_0",
+      "component_extension_fault_g083_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_084",
+    "trace_ids": [
+      "component_extension_fault_g084_0",
+      "component_extension_fault_g084_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_085",
+    "trace_ids": [
+      "component_extension_fault_g085_0",
+      "component_extension_fault_g085_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_086",
+    "trace_ids": [
+      "component_extension_fault_g086_0",
+      "component_extension_fault_g086_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_087",
+    "trace_ids": [
+      "component_extension_fault_g087_0",
+      "component_extension_fault_g087_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_088",
+    "trace_ids": [
+      "component_extension_fault_g088_0",
+      "component_extension_fault_g088_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_089",
+    "trace_ids": [
+      "component_extension_fault_g089_0",
+      "component_extension_fault_g089_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_090",
+    "trace_ids": [
+      "component_extension_fault_g090_0",
+      "component_extension_fault_g090_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_091",
+    "trace_ids": [
+      "component_extension_fault_g091_0",
+      "component_extension_fault_g091_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_092",
+    "trace_ids": [
+      "component_extension_fault_g092_0",
+      "component_extension_fault_g092_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_093",
+    "trace_ids": [
+      "component_extension_fault_g093_0",
+      "component_extension_fault_g093_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_094",
+    "trace_ids": [
+      "component_extension_fault_g094_0",
+      "component_extension_fault_g094_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_095",
+    "trace_ids": [
+      "component_extension_fault_g095_0",
+      "component_extension_fault_g095_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_096",
+    "trace_ids": [
+      "component_extension_fault_g096_0",
+      "component_extension_fault_g096_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_097",
+    "trace_ids": [
+      "component_extension_fault_g097_0",
+      "component_extension_fault_g097_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_098",
+    "trace_ids": [
+      "component_extension_fault_g098_0",
+      "component_extension_fault_g098_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_099",
+    "trace_ids": [
+      "component_extension_fault_g099_0",
+      "component_extension_fault_g099_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_100",
+    "trace_ids": [
+      "component_extension_fault_g100_0",
+      "component_extension_fault_g100_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_101",
+    "trace_ids": [
+      "component_extension_fault_g101_0",
+      "component_extension_fault_g101_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_102",
+    "trace_ids": [
+      "component_extension_fault_g102_0",
+      "component_extension_fault_g102_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_103",
+    "trace_ids": [
+      "component_extension_fault_g103_0",
+      "component_extension_fault_g103_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_104",
+    "trace_ids": [
+      "component_extension_fault_g104_0",
+      "component_extension_fault_g104_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_105",
+    "trace_ids": [
+      "component_extension_fault_g105_0",
+      "component_extension_fault_g105_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_106",
+    "trace_ids": [
+      "component_extension_fault_g106_0",
+      "component_extension_fault_g106_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  },
+  {
+    "matched_group_id": "r3_group_107",
+    "trace_ids": [
+      "component_extension_fault_g107_0",
+      "component_extension_fault_g107_1"
+    ],
+    "sparse_mask_id": "mask_0000000",
+    "rich_mask_id": "mask_1011111",
+    "sparse_factor_count": 0,
+    "rich_factor_count": 6
+  }
+]

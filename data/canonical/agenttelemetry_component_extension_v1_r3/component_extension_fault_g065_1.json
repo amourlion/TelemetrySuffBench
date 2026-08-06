@@ -1,0 +1,737 @@
+{
+  "schema_version": "1.0.0",
+  "trace_id": "component_extension_fault_g065_1",
+  "source_dataset": "agenttelemetry_component_extension",
+  "source_record_id": "fault_g065_1",
+  "source_revision": "246838d474114b41e5d3d68bb327e5c462a65d92",
+  "task_id": "document:7",
+  "workflow_id": "stateful_document",
+  "framework": "agenttelemetry_public_api",
+  "topology": "topology_0",
+  "modality": "text",
+  "events": [
+    {
+      "event_id": "evt_000001",
+      "step_index": 1,
+      "actor_id": "coordinator",
+      "actor_role": "coordinator",
+      "display_name": "coordinator",
+      "component_type": "agent",
+      "event_type": "agent",
+      "parent_event_ids": [],
+      "dependency_event_ids": [],
+      "input": {
+        "text": null,
+        "structured": null
+      },
+      "output": {
+        "text": null,
+        "structured": {
+          "workflow.domain": "document",
+          "workflow.task_variant": 7
+        }
+      },
+      "tool": {
+        "name": null,
+        "arguments": null,
+        "result": null
+      },
+      "retrieval": {
+        "query": null,
+        "documents": null
+      },
+      "memory": {
+        "operation": null,
+        "key": null,
+        "version": null,
+        "source_event_id": null
+      },
+      "status": "ok",
+      "exception": null,
+      "logical_time": 1,
+      "source_pointer": "span_id:c0b470b313ab2e0a"
+    },
+    {
+      "event_id": "evt_000002",
+      "step_index": 2,
+      "actor_id": null,
+      "actor_role": null,
+      "display_name": null,
+      "component_type": "retrieval",
+      "event_type": "retrieval",
+      "parent_event_ids": [
+        "evt_000001"
+      ],
+      "dependency_event_ids": [],
+      "input": {
+        "text": null,
+        "structured": null
+      },
+      "output": {
+        "text": null,
+        "structured": {
+          "workflow.reference_map": "version:current:D07_primary->D07_primary;version:previous:D07_primary->D07_alternate"
+        }
+      },
+      "tool": {
+        "name": null,
+        "arguments": null,
+        "result": null
+      },
+      "retrieval": {
+        "query": null,
+        "documents": "reference_registry"
+      },
+      "memory": {
+        "operation": null,
+        "key": null,
+        "version": null,
+        "source_event_id": null
+      },
+      "status": "ok",
+      "exception": null,
+      "logical_time": 2,
+      "source_pointer": "span_id:697625fbd5850199"
+    },
+    {
+      "event_id": "evt_000003",
+      "step_index": 3,
+      "actor_id": null,
+      "actor_role": null,
+      "display_name": null,
+      "component_type": "agent",
+      "event_type": "agent",
+      "parent_event_ids": [
+        "evt_000001"
+      ],
+      "dependency_event_ids": [],
+      "input": {
+        "text": null,
+        "structured": null
+      },
+      "output": {
+        "text": null,
+        "structured": {
+          "workflow.domain": "document",
+          "workflow.stage": "agent",
+          "workflow.position": 1,
+          "workflow.target_id": "D07_primary",
+          "workflow.reference": "version:current:D07_primary"
+        }
+      },
+      "tool": {
+        "name": null,
+        "arguments": null,
+        "result": null
+      },
+      "retrieval": {
+        "query": null,
+        "documents": null
+      },
+      "memory": {
+        "operation": null,
+        "key": null,
+        "version": null,
+        "source_event_id": null
+      },
+      "status": "ok",
+      "exception": null,
+      "logical_time": 3,
+      "source_pointer": "span_id:2bd51b9685d444b5"
+    },
+    {
+      "event_id": "evt_000004",
+      "step_index": 4,
+      "actor_id": null,
+      "actor_role": null,
+      "display_name": null,
+      "component_type": "planning",
+      "event_type": "planning",
+      "parent_event_ids": [
+        "evt_000001"
+      ],
+      "dependency_event_ids": [],
+      "input": {
+        "text": null,
+        "structured": null
+      },
+      "output": {
+        "text": null,
+        "structured": {
+          "workflow.domain": "document",
+          "workflow.stage": "planning",
+          "workflow.position": 2,
+          "workflow.target_id": "D07_primary",
+          "workflow.reference": "version:current:D07_primary"
+        }
+      },
+      "tool": {
+        "name": null,
+        "arguments": null,
+        "result": null
+      },
+      "retrieval": {
+        "query": null,
+        "documents": null
+      },
+      "memory": {
+        "operation": null,
+        "key": null,
+        "version": null,
+        "source_event_id": null
+      },
+      "status": "ok",
+      "exception": null,
+      "logical_time": 4,
+      "source_pointer": "span_id:10f30190920d2766"
+    },
+    {
+      "event_id": "evt_000005",
+      "step_index": 5,
+      "actor_id": null,
+      "actor_role": null,
+      "display_name": null,
+      "component_type": "reasoning",
+      "event_type": "reasoning",
+      "parent_event_ids": [
+        "evt_000001"
+      ],
+      "dependency_event_ids": [],
+      "input": {
+        "text": null,
+        "structured": null
+      },
+      "output": {
+        "text": null,
+        "structured": {
+          "workflow.domain": "document",
+          "workflow.stage": "reasoning",
+          "workflow.position": 3,
+          "workflow.target_id": "D07_primary",
+          "workflow.reference": "version:current:D07_primary"
+        }
+      },
+      "tool": {
+        "name": null,
+        "arguments": null,
+        "result": null
+      },
+      "retrieval": {
+        "query": null,
+        "documents": null
+      },
+      "memory": {
+        "operation": null,
+        "key": null,
+        "version": null,
+        "source_event_id": null
+      },
+      "status": "ok",
+      "exception": null,
+      "logical_time": 5,
+      "source_pointer": "span_id:d042ba768b9b4c94"
+    },
+    {
+      "event_id": "evt_000006",
+      "step_index": 6,
+      "actor_id": null,
+      "actor_role": null,
+      "display_name": null,
+      "component_type": "retrieval",
+      "event_type": "retrieval",
+      "parent_event_ids": [
+        "evt_000001"
+      ],
+      "dependency_event_ids": [],
+      "input": {
+        "text": null,
+        "structured": null
+      },
+      "output": {
+        "text": null,
+        "structured": {
+          "workflow.domain": "document",
+          "workflow.stage": "retrieval",
+          "workflow.position": 4,
+          "workflow.target_id": "D07_primary",
+          "workflow.reference": "version:current:D07_primary"
+        }
+      },
+      "tool": {
+        "name": null,
+        "arguments": null,
+        "result": null
+      },
+      "retrieval": {
+        "query": "D07_primary",
+        "documents": "versioned_catalog"
+      },
+      "memory": {
+        "operation": null,
+        "key": null,
+        "version": null,
+        "source_event_id": null
+      },
+      "status": "ok",
+      "exception": null,
+      "logical_time": 6,
+      "source_pointer": "span_id:dd2d72d866bfd126"
+    },
+    {
+      "event_id": "evt_000007",
+      "step_index": 7,
+      "actor_id": null,
+      "actor_role": null,
+      "display_name": null,
+      "component_type": "memory",
+      "event_type": "memory",
+      "parent_event_ids": [
+        "evt_000001"
+      ],
+      "dependency_event_ids": [],
+      "input": {
+        "text": null,
+        "structured": null
+      },
+      "output": {
+        "text": null,
+        "structured": {
+          "workflow.domain": "document",
+          "workflow.stage": "memory",
+          "workflow.position": 5,
+          "workflow.target_id": "D07_primary",
+          "workflow.reference": "version:current:D07_primary"
+        }
+      },
+      "tool": {
+        "name": null,
+        "arguments": null,
+        "result": null
+      },
+      "retrieval": {
+        "query": null,
+        "documents": null
+      },
+      "memory": {
+        "operation": "read",
+        "key": "document:7:target",
+        "version": null,
+        "source_event_id": null
+      },
+      "status": "ok",
+      "exception": null,
+      "logical_time": 7,
+      "source_pointer": "span_id:fa1985726a1ab54d"
+    },
+    {
+      "event_id": "evt_000008",
+      "step_index": 8,
+      "actor_id": null,
+      "actor_role": null,
+      "display_name": null,
+      "component_type": "tool_call",
+      "event_type": "tool_call",
+      "parent_event_ids": [
+        "evt_000001"
+      ],
+      "dependency_event_ids": [],
+      "input": {
+        "text": null,
+        "structured": "{\"operation\": \"resolve\", \"target_id\": \"D07_primary\"}"
+      },
+      "output": {
+        "text": null,
+        "structured": {
+          "workflow.domain": "document",
+          "workflow.stage": "tool_call",
+          "workflow.position": 6,
+          "workflow.target_id": "D07_primary",
+          "workflow.reference": "version:previous:D07_primary"
+        }
+      },
+      "tool": {
+        "name": "resolve_document_target",
+        "arguments": "{\"operation\": \"resolve\", \"target_id\": \"D07_primary\"}",
+        "result": "{\"resolved_id\": \"D07_primary\", \"result\": \"ok\"}"
+      },
+      "retrieval": {
+        "query": null,
+        "documents": null
+      },
+      "memory": {
+        "operation": null,
+        "key": null,
+        "version": null,
+        "source_event_id": null
+      },
+      "status": "ok",
+      "exception": null,
+      "logical_time": 8,
+      "source_pointer": "span_id:13e224b5c688a3c3"
+    },
+    {
+      "event_id": "evt_000009",
+      "step_index": 9,
+      "actor_id": null,
+      "actor_role": null,
+      "display_name": null,
+      "component_type": "llm_call",
+      "event_type": "llm_call",
+      "parent_event_ids": [
+        "evt_000001"
+      ],
+      "dependency_event_ids": [],
+      "input": {
+        "text": null,
+        "structured": null
+      },
+      "output": {
+        "text": null,
+        "structured": {
+          "workflow.domain": "document",
+          "workflow.stage": "llm_call",
+          "workflow.position": 7,
+          "workflow.target_id": "D07_primary",
+          "workflow.reference": "version:previous:D07_primary"
+        }
+      },
+      "tool": {
+        "name": null,
+        "arguments": null,
+        "result": null
+      },
+      "retrieval": {
+        "query": null,
+        "documents": null
+      },
+      "memory": {
+        "operation": null,
+        "key": null,
+        "version": null,
+        "source_event_id": null
+      },
+      "status": "ok",
+      "exception": null,
+      "logical_time": 9,
+      "source_pointer": "span_id:b21d16c29b36ed1a"
+    },
+    {
+      "event_id": "evt_000010",
+      "step_index": 10,
+      "actor_id": null,
+      "actor_role": null,
+      "display_name": null,
+      "component_type": "delegation",
+      "event_type": "delegation",
+      "parent_event_ids": [
+        "evt_000001"
+      ],
+      "dependency_event_ids": [],
+      "input": {
+        "text": null,
+        "structured": null
+      },
+      "output": {
+        "text": null,
+        "structured": {
+          "workflow.domain": "document",
+          "workflow.stage": "delegation",
+          "workflow.position": 8,
+          "workflow.target_id": "D07_primary",
+          "workflow.reference": "version:previous:D07_primary"
+        }
+      },
+      "tool": {
+        "name": null,
+        "arguments": null,
+        "result": null
+      },
+      "retrieval": {
+        "query": null,
+        "documents": null
+      },
+      "memory": {
+        "operation": null,
+        "key": null,
+        "version": null,
+        "source_event_id": null
+      },
+      "status": "ok",
+      "exception": null,
+      "logical_time": 10,
+      "source_pointer": "span_id:468df3daf7cb3a94"
+    },
+    {
+      "event_id": "evt_000011",
+      "step_index": 11,
+      "actor_id": null,
+      "actor_role": null,
+      "display_name": null,
+      "component_type": "guard_rail",
+      "event_type": "guard_rail",
+      "parent_event_ids": [
+        "evt_000001"
+      ],
+      "dependency_event_ids": [],
+      "input": {
+        "text": null,
+        "structured": null
+      },
+      "output": {
+        "text": null,
+        "structured": {
+          "workflow.domain": "document",
+          "workflow.stage": "guard_rail",
+          "workflow.position": 9,
+          "workflow.target_id": "D07_primary",
+          "workflow.reference": "version:previous:D07_primary"
+        }
+      },
+      "tool": {
+        "name": null,
+        "arguments": null,
+        "result": null
+      },
+      "retrieval": {
+        "query": null,
+        "documents": null
+      },
+      "memory": {
+        "operation": null,
+        "key": null,
+        "version": null,
+        "source_event_id": null
+      },
+      "status": "ok",
+      "exception": null,
+      "logical_time": 11,
+      "source_pointer": "span_id:286a90bdf9673445"
+    },
+    {
+      "event_id": "evt_000012",
+      "step_index": 12,
+      "actor_id": null,
+      "actor_role": null,
+      "display_name": null,
+      "component_type": "memory",
+      "event_type": "memory",
+      "parent_event_ids": [
+        "evt_000001"
+      ],
+      "dependency_event_ids": [],
+      "input": {
+        "text": null,
+        "structured": null
+      },
+      "output": {
+        "text": null,
+        "structured": {
+          "workflow.reference": "version:previous:D07_primary",
+          "workflow.binding_kind": "version_binding"
+        }
+      },
+      "tool": {
+        "name": null,
+        "arguments": null,
+        "result": null
+      },
+      "retrieval": {
+        "query": null,
+        "documents": null
+      },
+      "memory": {
+        "operation": "read",
+        "key": "binding:document:7",
+        "version": null,
+        "source_event_id": null
+      },
+      "status": "ok",
+      "exception": null,
+      "logical_time": 12,
+      "source_pointer": "span_id:5b7042eeb8d5df20"
+    },
+    {
+      "event_id": "evt_000013",
+      "step_index": 13,
+      "actor_id": null,
+      "actor_role": null,
+      "display_name": null,
+      "component_type": "retrieval",
+      "event_type": "retrieval",
+      "parent_event_ids": [
+        "evt_000001"
+      ],
+      "dependency_event_ids": [],
+      "input": {
+        "text": null,
+        "structured": null
+      },
+      "output": {
+        "text": null,
+        "structured": {
+          "workflow.reference": "version:previous:D07_primary",
+          "workflow.binding_kind": "version_binding",
+          "workflow.target_id": "D07_alternate"
+        }
+      },
+      "tool": {
+        "name": null,
+        "arguments": null,
+        "result": null
+      },
+      "retrieval": {
+        "query": null,
+        "documents": "reference_registry"
+      },
+      "memory": {
+        "operation": null,
+        "key": null,
+        "version": null,
+        "source_event_id": null
+      },
+      "status": "ok",
+      "exception": null,
+      "logical_time": 13,
+      "source_pointer": "span_id:05d7f30fe2effbd2"
+    },
+    {
+      "event_id": "evt_000014",
+      "step_index": 14,
+      "actor_id": null,
+      "actor_role": null,
+      "display_name": null,
+      "component_type": "tool_call",
+      "event_type": "tool_call",
+      "parent_event_ids": [
+        "evt_000001"
+      ],
+      "dependency_event_ids": [],
+      "input": {
+        "text": null,
+        "structured": "{\"operation\": \"update\", \"target_id\": \"D07_alternate\"}"
+      },
+      "output": {
+        "text": null,
+        "structured": {
+          "workflow.domain": "document",
+          "workflow.target_id": "D07_alternate"
+        }
+      },
+      "tool": {
+        "name": "update_document",
+        "arguments": "{\"operation\": \"update\", \"target_id\": \"D07_alternate\"}",
+        "result": "{\"result\": \"ok\", \"updated_id\": \"D07_alternate\"}"
+      },
+      "retrieval": {
+        "query": null,
+        "documents": null
+      },
+      "memory": {
+        "operation": null,
+        "key": null,
+        "version": null,
+        "source_event_id": null
+      },
+      "status": "ok",
+      "exception": null,
+      "logical_time": 14,
+      "source_pointer": "span_id:53303040aa5d29ca"
+    },
+    {
+      "event_id": "evt_000015",
+      "step_index": 15,
+      "actor_id": null,
+      "actor_role": null,
+      "display_name": null,
+      "component_type": "guard_rail",
+      "event_type": "guard_rail",
+      "parent_event_ids": [
+        "evt_000001"
+      ],
+      "dependency_event_ids": [],
+      "input": {
+        "text": null,
+        "structured": null
+      },
+      "output": {
+        "text": null,
+        "structured": {
+          "workflow.domain": "document",
+          "workflow.expected_target": "D07_primary",
+          "workflow.actual_target": "D07_alternate"
+        }
+      },
+      "tool": {
+        "name": null,
+        "arguments": null,
+        "result": null
+      },
+      "retrieval": {
+        "query": null,
+        "documents": null
+      },
+      "memory": {
+        "operation": null,
+        "key": null,
+        "version": null,
+        "source_event_id": null
+      },
+      "status": "error",
+      "exception": "updated non-target record",
+      "logical_time": 15,
+      "source_pointer": "span_id:7f6872a3196ec0c8"
+    }
+  ],
+  "labels": {
+    "is_fault": true,
+    "fault_type": "stale_reference_state",
+    "origin_component": "tool_call",
+    "origin_actor_id": null,
+    "origin_event_id": "evt_000008",
+    "origin_step_index": 8,
+    "activation_event_id": "evt_000013",
+    "first_visible_deviation_event_id": "evt_000013",
+    "causal_witness_event_ids": [
+      "evt_000002",
+      "evt_000008",
+      "evt_000013",
+      "evt_000013",
+      "evt_000014",
+      "evt_000015"
+    ],
+    "propagation_edges": [
+      [
+        "evt_000008",
+        "evt_000013"
+      ],
+      [
+        "evt_000013",
+        "evt_000013"
+      ],
+      [
+        "evt_000013",
+        "evt_000014"
+      ],
+      [
+        "evt_000014",
+        "evt_000015"
+      ]
+    ],
+    "symptom_event_ids": [
+      "evt_000014"
+    ],
+    "terminal_failure_event_id": "evt_000015",
+    "label_source": "programmatic_injection_hook"
+  },
+  "metadata": {
+    "clean_run_id": "clean_document_0_7",
+    "domain": "document",
+    "task_variant": 7,
+    "topology": 0,
+    "matched_group_id": "r3_group_065",
+    "delayed_operator": "version_binding",
+    "terminal_symptom": "wrong_record_updated",
+    "mapping_version": "component-extension-v1-r3",
+    "raw_bundle": "data/raw/agenttelemetry_component_extension_v1_r3/fault_g065_1.json"
+  }
+}

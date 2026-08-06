@@ -1,0 +1,2304 @@
+[
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "P",
+      "R",
+      "S",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [],
+    "factor_count": 0,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0000000",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "45724669f6af5e3856cd413ac859b5674bcc6bba37d7d0e82b4599a702768df7"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "P",
+      "R",
+      "S",
+      "V"
+    ],
+    "enabled_factors": [
+      "T"
+    ],
+    "factor_count": 1,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0000001",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "3aa28bff8b0dedb60792fad521f7252fd70383bae671b0a70093b96fdc242050"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "P",
+      "R",
+      "S",
+      "T"
+    ],
+    "enabled_factors": [
+      "V"
+    ],
+    "factor_count": 1,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0000010",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "5c6e26f5cf9bb14b7e1662992e82aeb2dba982e20501576658b23e2182f9cb90"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "P",
+      "R",
+      "S"
+    ],
+    "enabled_factors": [
+      "V",
+      "T"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0000011",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "4f126cb81ccd63f5c9e9b21c10f8cae63f03f969c296f46dba83519f72c8f61c"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "P",
+      "R",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "S"
+    ],
+    "factor_count": 1,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0000100",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "ea1eac5f0d8625ed281afe387006c080a6603832d6fd79c297d80a6ac0a05a1e"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "P",
+      "R",
+      "V"
+    ],
+    "enabled_factors": [
+      "S",
+      "T"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0000101",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "bf8a41193c8c13f5e2a135de770d3a71661dd7329304938c6fa93f5d619c76d8"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "P",
+      "R",
+      "T"
+    ],
+    "enabled_factors": [
+      "S",
+      "V"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0000110",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "434f231e739479e4f35abb3ed91e876a3080ee92649c9dc620d6effacfa79465"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "P",
+      "R"
+    ],
+    "enabled_factors": [
+      "S",
+      "V",
+      "T"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0000111",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "8d3813f66fa5835dfc6a426e197ae2914e6766b6a29e26524df8c6fd1d9fedd8"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "P",
+      "S",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "R"
+    ],
+    "factor_count": 1,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0001000",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "c61fac9cb2ed25ce163666c79c72eae13ccf4270cc83c5dc6ed0925c6c2b0ef5"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "P",
+      "S",
+      "V"
+    ],
+    "enabled_factors": [
+      "R",
+      "T"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0001001",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "b3f780fa223e966e7b46e670c911c1baad07de76e7e7d25735707d8a8d951572"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "P",
+      "S",
+      "T"
+    ],
+    "enabled_factors": [
+      "R",
+      "V"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0001010",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "679c3c304a89f8a9c1068a47d78e73184385304bf8da754f4140290c77efeb38"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "P",
+      "S"
+    ],
+    "enabled_factors": [
+      "R",
+      "V",
+      "T"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0001011",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "9606781a194bae98ff5a42002d2c8baa5119930fe4e16d74d610eef31f233d79"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "P",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "R",
+      "S"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0001100",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "7c743058768d4921ab02efd3a0aee83e3253c6b906d3e58098419038c2796cdf"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "P",
+      "V"
+    ],
+    "enabled_factors": [
+      "R",
+      "S",
+      "T"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0001101",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "1a276e8437b4f70cae132651ff3c3256f317164b69c5882c69354b94fbdd0c78"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "P",
+      "T"
+    ],
+    "enabled_factors": [
+      "R",
+      "S",
+      "V"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0001110",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "012d4aad05fcaf77a1b6118a6885b11a8cec038be5b38e3be17edebe2cbb30cc"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "P"
+    ],
+    "enabled_factors": [
+      "R",
+      "S",
+      "V",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0001111",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "f96230cfb7fe339bb59410eaf7b1c7da0c475a4e5d9349129680ed617adb4f89"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "R",
+      "S",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "P"
+    ],
+    "factor_count": 1,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0010000",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "ebd5a5db76e19a32f6c60434e3ad892cde4be2b2943ddb93e6dec7bad527b8d6"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "R",
+      "S",
+      "V"
+    ],
+    "enabled_factors": [
+      "P",
+      "T"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0010001",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "206f08f2789670eafa3fae683d3e66a67648d9647ff524054336a143b2f3dfe5"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "R",
+      "S",
+      "T"
+    ],
+    "enabled_factors": [
+      "P",
+      "V"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0010010",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "5c33bf57bbfb609eec2c9678d3d295ca93e538ad511223e1b9be34879d00e23a"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "R",
+      "S"
+    ],
+    "enabled_factors": [
+      "P",
+      "V",
+      "T"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0010011",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "b25827a50e47c834124a2dd868f8889646dcbb543d43d3c6e22c9944b4fe533e"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "R",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "P",
+      "S"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0010100",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "168799cd2701f0075b40f8d3cade5a09f6c745b4e5d9e4a70bf92e15fafa6818"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "R",
+      "V"
+    ],
+    "enabled_factors": [
+      "P",
+      "S",
+      "T"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0010101",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "824e701ac2a49ab7bbaa3bd2f58dcf542c61d6895c33d9858e9f313ca8e823dc"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "R",
+      "T"
+    ],
+    "enabled_factors": [
+      "P",
+      "S",
+      "V"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0010110",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "c254bb0883c3af44d118151a16b541ac2770ac03827a5b98938875885da655a8"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "R"
+    ],
+    "enabled_factors": [
+      "P",
+      "S",
+      "V",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0010111",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "6facef496ae937d5045c03d7b25ec9a125abc9928d57b95c4eb5bae60539ad7a"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "S",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "P",
+      "R"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0011000",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "4cb1c31c1ea68b60100e149efde3d2e2637c1b8c3f4199df3c50ef1b89286fa8"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "S",
+      "V"
+    ],
+    "enabled_factors": [
+      "P",
+      "R",
+      "T"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0011001",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "ad97c0f35c49824f2592ae1d11c1f2fdb53f3a93a4af94d2b36a6e198e7392d5"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "S",
+      "T"
+    ],
+    "enabled_factors": [
+      "P",
+      "R",
+      "V"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0011010",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "68837875b5700765e4e12c88df41f8d9e4bcf3fc44a2893cbbd6f61824241fe1"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "S"
+    ],
+    "enabled_factors": [
+      "P",
+      "R",
+      "V",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0011011",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "6bee2d32f986a89d90f46ce85fe2c2d1761446bda387b3059d978bb21df26fee"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "P",
+      "R",
+      "S"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0011100",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "be8a932a9c393786cf034edddce527dd8ee247bad40fe3cb86e44f958e0a89fc"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "V"
+    ],
+    "enabled_factors": [
+      "P",
+      "R",
+      "S",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0011101",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "f638c9784c6c9c107735214e93a23aa18d9dbc977e21e9959dcf258410d43f56"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D",
+      "T"
+    ],
+    "enabled_factors": [
+      "P",
+      "R",
+      "S",
+      "V"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0011110",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "ba444127552c31b4e09b3a6ac7afedf3fa1b5a5a2d171e470eec018b4896b4f2"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "D"
+    ],
+    "enabled_factors": [
+      "P",
+      "R",
+      "S",
+      "V",
+      "T"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0011111",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "767fc3eabd099cedce71fba1aa486afb8d5e7149f7120d7d2fb52537e8d9bb1a"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "P",
+      "R",
+      "S",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "D"
+    ],
+    "factor_count": 1,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0100000",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "89959ff3a951ded968f2d2296fe4f13ffcb26c17abcd6701964b6c0d34161895"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "P",
+      "R",
+      "S",
+      "V"
+    ],
+    "enabled_factors": [
+      "D",
+      "T"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0100001",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "ef54394a0d582164115870f0a453c3232344ebb41bf477739c10b3a557bd01a9"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "P",
+      "R",
+      "S",
+      "T"
+    ],
+    "enabled_factors": [
+      "D",
+      "V"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0100010",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "b6df8cc8bc1bbd87169eb8abf3f9bb7a955d38ce8507828da8c1f0d32cdcdd00"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "P",
+      "R",
+      "S"
+    ],
+    "enabled_factors": [
+      "D",
+      "V",
+      "T"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0100011",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "c6576ad78facaa68d849e53685482bcd2682d3588bc70e1f7442259cf075af8c"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "P",
+      "R",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "D",
+      "S"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0100100",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "3997c194785882ef3e80c0bd1f2499aecc2e4bc10a02b441c60448fcf38ccf72"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "P",
+      "R",
+      "V"
+    ],
+    "enabled_factors": [
+      "D",
+      "S",
+      "T"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0100101",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "bbffee4c9ff68a07f397519becbb3988980d4138ad3c86013df311961e499bfc"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "P",
+      "R",
+      "T"
+    ],
+    "enabled_factors": [
+      "D",
+      "S",
+      "V"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0100110",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "94a3ce009e696c463e6db09448a74c0a34ae30670048f7debf02767c6ee1eb6f"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "P",
+      "R"
+    ],
+    "enabled_factors": [
+      "D",
+      "S",
+      "V",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0100111",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "9e7f51ff78e6609dd008af8835e0798b22ab0b5bbca291803ea7d9707b7487b5"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "P",
+      "S",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "D",
+      "R"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0101000",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "ac984f3b92e1f5303a9a8487e7c0166872c122c24e71353c2d8b9dfac8aee5a5"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "P",
+      "S",
+      "V"
+    ],
+    "enabled_factors": [
+      "D",
+      "R",
+      "T"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0101001",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "92ce15b23cda3719b2a55b43d2ff4aafaae8ec1777d0c9c31bac3787dc9fe25f"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "P",
+      "S",
+      "T"
+    ],
+    "enabled_factors": [
+      "D",
+      "R",
+      "V"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0101010",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "e1babc2d6f5fb56c8b2ca34e3c4321d4833372d2e0e07e89e02f759f17c5c461"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "P",
+      "S"
+    ],
+    "enabled_factors": [
+      "D",
+      "R",
+      "V",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0101011",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "b65c021e5f6a9eb1d3756731e9648e581f31df34be23326bf60d8322a346a782"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "P",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "D",
+      "R",
+      "S"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0101100",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "d4370dbb695fd21f1c64c267854d33dd67de33242dfc06d793c7e097f0e22394"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "P",
+      "V"
+    ],
+    "enabled_factors": [
+      "D",
+      "R",
+      "S",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0101101",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "bbc377833bff918bcb2f400d003848ae8917b5d34595723a89b0f58608d2a885"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "P",
+      "T"
+    ],
+    "enabled_factors": [
+      "D",
+      "R",
+      "S",
+      "V"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0101110",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "6f34a8d5dd7323154e7f390a50e1387b058799df6f3ab2f2a9e4b1f1774498e3"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "P"
+    ],
+    "enabled_factors": [
+      "D",
+      "R",
+      "S",
+      "V",
+      "T"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0101111",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "b3d4bbb324eddf28712524cedefad2522214265f95c952f0c4f6b4251452da48"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "R",
+      "S",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "D",
+      "P"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0110000",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "274ff268e00456e3137f586a2af05e5feabf489816ad647a4903892cd42083fe"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "R",
+      "S",
+      "V"
+    ],
+    "enabled_factors": [
+      "D",
+      "P",
+      "T"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0110001",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "aff89cf23a97a5388e64f7160d71f376e895e7e0170f72c1bd7b3ec63aae6508"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "R",
+      "S",
+      "T"
+    ],
+    "enabled_factors": [
+      "D",
+      "P",
+      "V"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0110010",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "add36b35a8dce04e191f21b5cf706dbb04cae467c29c7ea02aab73de1cb31df4"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "R",
+      "S"
+    ],
+    "enabled_factors": [
+      "D",
+      "P",
+      "V",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0110011",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "d8ce7149522cf18fcd7cf61115068e0464b8f81efc4f42310052a70da0f2d319"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "R",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "D",
+      "P",
+      "S"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0110100",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "54d1e7a27b979ea51e2f22a09534fb41d05d527a49aa36e9efac02c797bdf9eb"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "R",
+      "V"
+    ],
+    "enabled_factors": [
+      "D",
+      "P",
+      "S",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0110101",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "f490e95008f8a8279bb67959134d3e64148e38b57c748c9a5a982d75d7090eeb"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "R",
+      "T"
+    ],
+    "enabled_factors": [
+      "D",
+      "P",
+      "S",
+      "V"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0110110",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "4e4e65fd5a03f1db185b52d9ca3d5f168394c71971aef8496d17b6b2f5ae2972"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "R"
+    ],
+    "enabled_factors": [
+      "D",
+      "P",
+      "S",
+      "V",
+      "T"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0110111",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "af69eaac58752f790a3f1e5a2d25906834ae6ce3508d105e6e178041299d689f"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "S",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "D",
+      "P",
+      "R"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0111000",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "e9aac95fea0a03cd045c1771ea0bf779eec0aff2be8b147d3bd947f5a591671a"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "S",
+      "V"
+    ],
+    "enabled_factors": [
+      "D",
+      "P",
+      "R",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0111001",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "668abfb3b017e300001fc1c12b5f51897360d56a4b10b7af4210498bd341b1db"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "S",
+      "T"
+    ],
+    "enabled_factors": [
+      "D",
+      "P",
+      "R",
+      "V"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0111010",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "c192b957265331253d013f58967136d375a74ff3653531470c8a4cf332523e54"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "S"
+    ],
+    "enabled_factors": [
+      "D",
+      "P",
+      "R",
+      "V",
+      "T"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0111011",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "aa0ab968c25b30d437439002b852243afcd6ed408dd9de7106828572950b5f5a"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "D",
+      "P",
+      "R",
+      "S"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0111100",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "3205cda72be3d703d3c253f96595ced2814236f8eb3ec834cdc848fd50828201"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "V"
+    ],
+    "enabled_factors": [
+      "D",
+      "P",
+      "R",
+      "S",
+      "T"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0111101",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "6235e683b1a6f25ba64561e5a16b4318e53103d509427ef7ac6cf2512cd17f89"
+  },
+  {
+    "disabled_factors": [
+      "I",
+      "T"
+    ],
+    "enabled_factors": [
+      "D",
+      "P",
+      "R",
+      "S",
+      "V"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0111110",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "9b04b5e09056fc692ab2348c5a56f117b62eaaf118451826c4a0f505faf41c58"
+  },
+  {
+    "disabled_factors": [
+      "I"
+    ],
+    "enabled_factors": [
+      "D",
+      "P",
+      "R",
+      "S",
+      "V",
+      "T"
+    ],
+    "factor_count": 6,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_0111111",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "57bf79d85ed2788ea68c3078756390d5a5fec5604e503ccc6d6ef5b730f97081"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "P",
+      "R",
+      "S",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "I"
+    ],
+    "factor_count": 1,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1000000",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "e87da5e672c00ab73f615d45f0baf40053f319e19ab4c7a0bb41f655b81fb482"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "P",
+      "R",
+      "S",
+      "V"
+    ],
+    "enabled_factors": [
+      "I",
+      "T"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1000001",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "3282cc4adcb69c19231a4edfdd4710afad7ee60b0ac383e7eadc79122f64b0a3"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "P",
+      "R",
+      "S",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "V"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1000010",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "cd3ca255e0da22ece7afa2df1be2d50d57d0749dff0f994a222c3850b8a78efb"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "P",
+      "R",
+      "S"
+    ],
+    "enabled_factors": [
+      "I",
+      "V",
+      "T"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1000011",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "fdb7b8925e3b33924377cda69f2b2dfa6b90b96861308df599b04ac434540488"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "P",
+      "R",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "S"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1000100",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "8bd8de5f2ed8abfe78e62f2d0578d0298e9837d6b1227da59597c8061c8d53c8"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "P",
+      "R",
+      "V"
+    ],
+    "enabled_factors": [
+      "I",
+      "S",
+      "T"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1000101",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "b3c2d576d0d3504395dc027c32fe1ce9cc8dbd3e9f9b3c152d1ba0096cbcb2e2"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "P",
+      "R",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "S",
+      "V"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1000110",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "fc3ecd34bcc74d6c678718473c0f94b30d10ac419c3737869f5a06a6698f3fe7"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "P",
+      "R"
+    ],
+    "enabled_factors": [
+      "I",
+      "S",
+      "V",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1000111",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "b5a79bed8d43c56113bef5a1bd134320460d46cd96180d6eba6c968510ec3e58"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "P",
+      "S",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "R"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1001000",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "90e476170cb353aed867c57b3b58dbfccf3a26041253b974427d49644f331265"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "P",
+      "S",
+      "V"
+    ],
+    "enabled_factors": [
+      "I",
+      "R",
+      "T"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1001001",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "7858f9133cce7b5393c090e25605155f7a84b89eb345c3716951d3873f26597c"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "P",
+      "S",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "R",
+      "V"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1001010",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "54b32ce4b2a2c1a20663b318cc769496840c34c2fc2d079c51da1ab406dc01cc"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "P",
+      "S"
+    ],
+    "enabled_factors": [
+      "I",
+      "R",
+      "V",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1001011",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "95981cb9ab69ff19dcd7844e6c10f21f4fbd6b3d4cd7d4ad4a5c69b9f3145baf"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "P",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "R",
+      "S"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1001100",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "ad13d5d8b82f20b19d72a003fff0ddeacfa56a8ec09f3f6ce82a42d678dd26fd"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "P",
+      "V"
+    ],
+    "enabled_factors": [
+      "I",
+      "R",
+      "S",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1001101",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "7e17e36394cd6371ba6a5ef5cb59233fb0578bb6283f8f488fb54f442dd8bba3"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "P",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "R",
+      "S",
+      "V"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1001110",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "d30a8780f3356086f1d5e88079322790966e1e3f27b53aafe4702dfa657c5ffc"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "P"
+    ],
+    "enabled_factors": [
+      "I",
+      "R",
+      "S",
+      "V",
+      "T"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1001111",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "caad1ec7b99044ef06f6e1e95122b02b1bec111cc2c541c1f9f616cd9e3694c3"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "R",
+      "S",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "P"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1010000",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "1178d5079dad970a05094d6956208bd6f6c3b4bfa79719a1c752bf3c56633fa0"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "R",
+      "S",
+      "V"
+    ],
+    "enabled_factors": [
+      "I",
+      "P",
+      "T"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1010001",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "d533937ecca9a99b1168dd0c594ac54bcfbc809e3dfe938c2aeb03a4e6aa2f26"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "R",
+      "S",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "P",
+      "V"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1010010",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "3d486078807471f6c5980359e722758401d72e9790c342948e2117384b2622c5"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "R",
+      "S"
+    ],
+    "enabled_factors": [
+      "I",
+      "P",
+      "V",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1010011",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "90ab3a0985dc5f91cf58c7eb9355157eca6f0a8aa307f60ede1b5308f4bb4da1"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "R",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "P",
+      "S"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1010100",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "73ef0369367a5676ee4f8a071f613106336adb6e930ec089bd62100827958f09"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "R",
+      "V"
+    ],
+    "enabled_factors": [
+      "I",
+      "P",
+      "S",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1010101",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "6a486ca2f83f3b752c6a4f29bdf072b98e03ec8865dd3b3231f9a61cfd955393"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "R",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "P",
+      "S",
+      "V"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1010110",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "4dc4cc7ae7cff2ae44ca29843d226fca37e9bc847e7d4c1e2abb27a008732461"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "R"
+    ],
+    "enabled_factors": [
+      "I",
+      "P",
+      "S",
+      "V",
+      "T"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1010111",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "87e5f8b798a6918dbc343181a9a14edcfed5fcc70c89429429d2d343ae2ef475"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "S",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "P",
+      "R"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1011000",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "70e911427f013cd06116ed1e0929c8cd6db255c4a8d6b1caaea1ae4083df5ab7"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "S",
+      "V"
+    ],
+    "enabled_factors": [
+      "I",
+      "P",
+      "R",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1011001",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "6ea07bd953a7311567c63c673a45f2cc1b7f51674284dd0bd874f65745efba87"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "S",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "P",
+      "R",
+      "V"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1011010",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "061c7b7c4ec9781449da087b0f5ffb5406ce8dbfe98f2c21eb7b3ae6a14ac06d"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "S"
+    ],
+    "enabled_factors": [
+      "I",
+      "P",
+      "R",
+      "V",
+      "T"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1011011",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "a978582d4ae842f610353efe4ca46ce262f3b6a35bfaaf8742c6cb274804fb68"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "P",
+      "R",
+      "S"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1011100",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "33539e628440ca424cc4c3012b3f622ece5cf94a840d7c111bffb98afa0c15fe"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "V"
+    ],
+    "enabled_factors": [
+      "I",
+      "P",
+      "R",
+      "S",
+      "T"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1011101",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "67b342f4238871135fd6e32aa97e520c314c11b2e9c47e9756fdbc1d4578e849"
+  },
+  {
+    "disabled_factors": [
+      "D",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "P",
+      "R",
+      "S",
+      "V"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1011110",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "f6da45590d79f156441c7ccfc6a17a34a4a760d3bce9da852fe0b43d414a738d"
+  },
+  {
+    "disabled_factors": [
+      "D"
+    ],
+    "enabled_factors": [
+      "I",
+      "P",
+      "R",
+      "S",
+      "V",
+      "T"
+    ],
+    "factor_count": 6,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1011111",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "6074dd95c644d772c7a79473907b205fe9027dc2632c23dc340d57c93f198b01"
+  },
+  {
+    "disabled_factors": [
+      "P",
+      "R",
+      "S",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "D"
+    ],
+    "factor_count": 2,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1100000",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "bb2e2613575afdc36201c60ccc19e43ab3ac4479b0c1c653c1bbc930bb419363"
+  },
+  {
+    "disabled_factors": [
+      "P",
+      "R",
+      "S",
+      "V"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "T"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1100001",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "c126a4c814c46c9a558f9309d151ad81e9dfcf576ed16e7751ac8a9cba4752c4"
+  },
+  {
+    "disabled_factors": [
+      "P",
+      "R",
+      "S",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "V"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1100010",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "e26cef42e1de2e99e6b5daece55de976d930c91a95a408b46a35aa28b0add941"
+  },
+  {
+    "disabled_factors": [
+      "P",
+      "R",
+      "S"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "V",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1100011",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "d945bdba95e2acd3f5d7483ac0595a24f2afbf0813222cffa329a114aaab6a7a"
+  },
+  {
+    "disabled_factors": [
+      "P",
+      "R",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "S"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1100100",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "848a3a3d3f83c722428d4a5e371ecb0682ed15138a1ec4b3ddd0871f2465eada"
+  },
+  {
+    "disabled_factors": [
+      "P",
+      "R",
+      "V"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "S",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1100101",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "98b67920b01fbe137921e469d0985d612746352a48e6b98d53208155cff25c5d"
+  },
+  {
+    "disabled_factors": [
+      "P",
+      "R",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "S",
+      "V"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1100110",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "3f688b6060c43e7cc8e54dfe2552f28c09f8baf2927252d4abfb77f1d01ec14c"
+  },
+  {
+    "disabled_factors": [
+      "P",
+      "R"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "S",
+      "V",
+      "T"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1100111",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "f3f7283fffd458b83317618a12799504592df58a2ec1a0d0d4ed631001b93bc7"
+  },
+  {
+    "disabled_factors": [
+      "P",
+      "S",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "R"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1101000",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "eeb58d3efe9ce240f8d475e2958074b34aab92e5be8bf929c01f8c0cf7eb0151"
+  },
+  {
+    "disabled_factors": [
+      "P",
+      "S",
+      "V"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "R",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1101001",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "244302ba1de466df4f24668c51bab25099848199b112c30fca7344a609794eca"
+  },
+  {
+    "disabled_factors": [
+      "P",
+      "S",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "R",
+      "V"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1101010",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "c4e98fe2b909286b52b3894f9588664a34ff1003219987a1b8a15b088ebd8303"
+  },
+  {
+    "disabled_factors": [
+      "P",
+      "S"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "R",
+      "V",
+      "T"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1101011",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "6f1d6e8e07f941e02d25a835e0dcb01057db0a64e66bee994c8eaacb827cd01b"
+  },
+  {
+    "disabled_factors": [
+      "P",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "R",
+      "S"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1101100",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "0e527088a7a47f152748e7c91c8831576d1284754355a318ca9c7da74e0c2c89"
+  },
+  {
+    "disabled_factors": [
+      "P",
+      "V"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "R",
+      "S",
+      "T"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1101101",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "d2d9db6dcfb877bc0bcb6c9177af69f7b1bcf9f9336526ea0e9011838ff98c5f"
+  },
+  {
+    "disabled_factors": [
+      "P",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "R",
+      "S",
+      "V"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1101110",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "e7d6f5779052525a8976586aa139acdc7252a7b5f59f8de049a4d10b3612b0f0"
+  },
+  {
+    "disabled_factors": [
+      "P"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "R",
+      "S",
+      "V",
+      "T"
+    ],
+    "factor_count": 6,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1101111",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "8a0f7852064d9d2da96b8131211c4d92f857f6ee54afbdc3a4d76849ef6d5bc1"
+  },
+  {
+    "disabled_factors": [
+      "R",
+      "S",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "P"
+    ],
+    "factor_count": 3,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1110000",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "bfdbff6e1bfaa5ad7c47bb1c24d1220f7b564e2fdfa56bcc34d45aa45c2da291"
+  },
+  {
+    "disabled_factors": [
+      "R",
+      "S",
+      "V"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "P",
+      "T"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1110001",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "f1e197e993c84a1aeb50bbf864be8c38de06b31d87179caedc2798bf1c69d1df"
+  },
+  {
+    "disabled_factors": [
+      "R",
+      "S",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "P",
+      "V"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1110010",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "323e693c82c18323c33f0d9e5837a60d4d7052c4424960c6ccbaba7b670f3b15"
+  },
+  {
+    "disabled_factors": [
+      "R",
+      "S"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "P",
+      "V",
+      "T"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1110011",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "8f737a852c17d09c4434e1882b08ae818a8f2e1f7224886dad40631cea762629"
+  },
+  {
+    "disabled_factors": [
+      "R",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "P",
+      "S"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1110100",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "535ffe0790410fe1446dfeed5416a8088314b3e351a76001f3e3db2edb9669ba"
+  },
+  {
+    "disabled_factors": [
+      "R",
+      "V"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "P",
+      "S",
+      "T"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1110101",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "13e6d232aa63e65bfabe9746abab0d4da05fd92deb689e9a37bc2525a0786a29"
+  },
+  {
+    "disabled_factors": [
+      "R",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "P",
+      "S",
+      "V"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1110110",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "39f113fe41db43dffef61505d52f757d4eb565830cfa7b3a7e6545041393e10f"
+  },
+  {
+    "disabled_factors": [
+      "R"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "P",
+      "S",
+      "V",
+      "T"
+    ],
+    "factor_count": 6,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1110111",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "119fb70a6f8d7349276a933dd3bb4a1e5d601db2accfad1fc057dd63e7868770"
+  },
+  {
+    "disabled_factors": [
+      "S",
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "P",
+      "R"
+    ],
+    "factor_count": 4,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1111000",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "6b7ed53a35570a26261efba41eb20177396357493618768ea071d47b09859a01"
+  },
+  {
+    "disabled_factors": [
+      "S",
+      "V"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "P",
+      "R",
+      "T"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1111001",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "acca4e2f393b7ec5a3184782449c606e2fd1afc98341e84693249d980f5be1f1"
+  },
+  {
+    "disabled_factors": [
+      "S",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "P",
+      "R",
+      "V"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1111010",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "6d81c3fcd5a554b02e95bf8af77bce9ae65b6b3ff2a68e3ef63021e64b55676c"
+  },
+  {
+    "disabled_factors": [
+      "S"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "P",
+      "R",
+      "V",
+      "T"
+    ],
+    "factor_count": 6,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1111011",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "70f5734cd3766989543902fbc54ab0188e095c92699ef1759a1df4187281239e"
+  },
+  {
+    "disabled_factors": [
+      "V",
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "P",
+      "R",
+      "S"
+    ],
+    "factor_count": 5,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1111100",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "81df44866591b597e43b679c965041ba5a5d26f67d8e0511b7a280402e59d27c"
+  },
+  {
+    "disabled_factors": [
+      "V"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "P",
+      "R",
+      "S",
+      "T"
+    ],
+    "factor_count": 6,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1111101",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "5ac2ee711dcf82f0f61b832912fb7d8d343d23f27fa9bf5cb5a9ef3b2fbcc265"
+  },
+  {
+    "disabled_factors": [
+      "T"
+    ],
+    "enabled_factors": [
+      "I",
+      "D",
+      "P",
+      "R",
+      "S",
+      "V"
+    ],
+    "factor_count": 6,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1111110",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "7d8f6f563305118e638c08a69647af8037a6889bfc4f1388a7ea462771a1e6d8"
+  },
+  {
+    "disabled_factors": [],
+    "enabled_factors": [
+      "I",
+      "D",
+      "P",
+      "R",
+      "S",
+      "V",
+      "T"
+    ],
+    "factor_count": 7,
+    "manifest_version": "rq2_signal_factors_v1",
+    "mask_id": "mask_1111111",
+    "renderer_version": "rq2_renderer_v1",
+    "stable_hash": "58c2b3c58df9eb22fa10885ed95b2f984f807362e9f7955dd270d322f645224a"
+  }
+]

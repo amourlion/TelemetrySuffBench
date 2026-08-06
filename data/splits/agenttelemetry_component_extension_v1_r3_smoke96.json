@@ -1,0 +1,20 @@
+{
+  "clean": 24,
+  "component_counts": {
+    "agent": 8,
+    "delegation": 8,
+    "guard_rail": 8,
+    "llm_call": 8,
+    "memory": 8,
+    "planning": 8,
+    "reasoning": 8,
+    "retrieval": 8,
+    "tool_call": 8
+  },
+  "dataset": "agenttelemetry_component_extension_v1_r3",
+  "faults": 72,
+  "queue_tasks": 576,
+  "selection": "paired-cycle component-balanced smoke",
+  "traces": 96,
+  "views": 6
+}
