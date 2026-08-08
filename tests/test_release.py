@@ -1,3 +1,4 @@
+import hashlib
 import json
 from pathlib import Path
 
@@ -22,3 +23,14 @@ def test_rq2_panel_and_splits() -> None:
     result = validate_frozen_splits(ROOT)
     assert result["confirmation"]["traces"] == 216
     assert result["mask_count"] == 11
+
+
+def test_release_manifest_and_dataset_hashes() -> None:
+    manifest = json.loads((ROOT / "RELEASE_MANIFEST.json").read_text(encoding="utf-8"))
+    checksum_path = ROOT / manifest["dataset_checksum_manifest"]
+    checksum_bytes = checksum_path.read_bytes()
+    assert hashlib.sha256(checksum_bytes).hexdigest() == manifest["dataset_checksum_manifest_sha256"]
+    entries = [line.split(maxsplit=1) for line in checksum_bytes.decode().splitlines() if line]
+    assert len(entries) == manifest["dataset_checksum_entries"] == 544
+    for expected, relative in entries:
+        assert hashlib.sha256((ROOT / relative).read_bytes()).hexdigest() == expected

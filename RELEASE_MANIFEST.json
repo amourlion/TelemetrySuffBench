@@ -1,0 +1,19 @@
+{
+  "release": "v1.0.0",
+  "release_date": "2026-08-08",
+  "dataset_checksum_manifest": "DATASET_SHA256SUMS.txt",
+  "dataset_checksum_manifest_sha256": "cc37912a550152e93d6c46050681faeaa497b0b5061200813873ad422eb64445",
+  "dataset_checksum_entries": 544,
+  "main_traces": 312,
+  "main_fault_traces": 216,
+  "holdout_traces": 216,
+  "holdout_fault_traces": 144,
+  "rq1_requests": 1872,
+  "rq2_discovery_requests": 1056,
+  "rq2_confirmation_requests": 2376,
+  "rq2_masks": 11,
+  "rq3_discovery_logical_rows_per_policy": 288,
+  "rq3_discovery_unique_requests_per_policy": 216,
+  "rq3_confirmation_logical_rows_per_policy": 576,
+  "rq3_confirmation_unique_requests_per_policy": 432
+}

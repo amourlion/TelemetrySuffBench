@@ -1,0 +1,33 @@
+name: Artifact integrity
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          python-version: "3.11"
+          enable-cache: true
+      - name: Install frozen environment
+        run: uv sync --frozen --all-extras
+      - name: Run tests
+        run: uv run pytest
+      - name: Verify released data
+        run: sha256sum -c DATASET_SHA256SUMS.txt
+      - name: Rebuild paper inputs
+        run: |
+          uv run python scripts/build_rq1_jobs.py
+          uv run python scripts/build_rq2_jobs.py
+          uv run python scripts/build_rq3_requests.py
+      - name: Verify reconstruction counts
+        run: |
+          test "$(wc -l < outputs/requests/rq1.jsonl)" -eq 1872
+          test "$(wc -l < outputs/requests/rq2_discovery_11mask.jsonl)" -eq 1056
+          test "$(wc -l < outputs/requests/rq2_confirmation_11mask.jsonl)" -eq 2376
+          test "$(wc -l < outputs/requests/rq3_discovery_p0.jsonl)" -eq 216
+          test "$(wc -l < outputs/requests/rq3_confirmation_p0.jsonl)" -eq 432

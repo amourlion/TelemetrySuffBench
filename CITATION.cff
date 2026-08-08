@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use TelemetrySuffBench, please cite this artifact and the accompanying paper."
+title: "TelemetrySuffBench: Is Agent Telemetry Sufficient for Failure-Origin Diagnosis?"
+type: dataset
+version: 1.0.0
+date-released: 2026-08-08
+authors:
+  - given-names: Yuxuan
+    family-names: Zhu
+  - given-names: Peng
+    family-names: Pu
+repository-code: "https://github.com/amourlion/TelemetrySuffBench"
+url: "https://github.com/amourlion/TelemetrySuffBench"
+license: CC-BY-4.0
+abstract: >-
+  A controlled benchmark and offline evaluation toolkit for separating failure
+  detection, failure-origin localization, and evidence-aware abstention in
+  AI-agent telemetry.
+keywords:
+  - large language models
+  - AI agents
+  - telemetry traces
+  - failure attribution
+  - benchmark
